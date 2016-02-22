@@ -8,3 +8,4 @@
 (setq prelude-guru nil)
 (custom-set-variables '(coffee-tab-width 2))
 (custom-set-variables '(tags-case-fold-search nil))
+(global-auto-revert-mode t)
